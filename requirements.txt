@@ -1,0 +1,6 @@
+required packages list is below
+pandas
+numpy
+azure-storage-blob
+pyodbc
+pyspark
